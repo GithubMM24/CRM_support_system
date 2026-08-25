@@ -1,0 +1,64 @@
+{
+  "tickets": [
+    {
+      "customer_name": "Aarav Sharma",
+      "customer_email": "aarav.sharma@example.com",
+      "subject": "Unable to log in",
+      "description": "I am receiving an invalid password error even though I am using the correct password."
+    },
+    {
+      "customer_name": "Priya Patel",
+      "customer_email": "priya.patel@example.com",
+      "subject": "Payment failed",
+      "description": "My credit card payment failed while trying to upgrade my subscription."
+    },
+    {
+      "customer_name": "Rahul Verma",
+      "customer_email": "rahul.verma@example.com",
+      "subject": "Account locked",
+      "description": "My account was locked after multiple unsuccessful login attempts."
+    },
+    {
+      "customer_name": "Sneha Kapoor",
+      "customer_email": "sneha.kapoor@example.com",
+      "subject": "Incorrect billing amount",
+      "description": "The amount charged on my latest invoice is higher than expected."
+    },
+    {
+      "customer_name": "Vikram Singh",
+      "customer_email": "vikram.singh@example.com",
+      "subject": "Password reset email not received",
+      "description": "I requested a password reset but have not received the reset email."
+    },
+    {
+      "customer_name": "Ananya Iyer",
+      "customer_email": "ananya.iyer@example.com",
+      "subject": "Cannot update profile",
+      "description": "I am unable to save changes to my profile information."
+    },
+    {
+      "customer_name": "Rohan Mehta",
+      "customer_email": "rohan.mehta@example.com",
+      "subject": "Application is slow",
+      "description": "The dashboard takes a long time to load and frequently becomes unresponsive."
+    },
+    {
+      "customer_name": "Kavya Nair",
+      "customer_email": "kavya.nair@example.com",
+      "subject": "Feature request",
+      "description": "It would be useful to have an option to export ticket history as a CSV file."
+    },
+    {
+      "customer_name": "Arjun Reddy",
+      "customer_email": "arjun.reddy@example.com",
+      "subject": "Subscription cancellation issue",
+      "description": "I am unable to cancel my current subscription from the account settings page."
+    },
+    {
+      "customer_name": "Neha Joshi",
+      "customer_email": "neha.joshi@example.com",
+      "subject": "Notification problem",
+      "description": "I am not receiving email notifications when my support ticket is updated."
+    }
+  ]
+}

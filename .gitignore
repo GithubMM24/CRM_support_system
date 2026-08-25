@@ -1,0 +1,55 @@
+error_and_test_backend_file/
+
+# =========================
+# Python / FastAPI
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*test.py
+
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# SQLite databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Environment variables / secrets
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Node / React
+# =========================
+frontend/
+node_modules/
+assets/
+public/
+
+# Build files
+dist/
+build/
+
+# =========================
+# IDE / OS files
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
