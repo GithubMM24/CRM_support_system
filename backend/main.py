@@ -24,7 +24,7 @@ base = declarative_base()
 app.add_middleware(
     
     CORSMiddleware,
-    allow_origins=("https://github.com/GithubMM24/CRM_support_system/tree/main"), 
+    allow_origins=("https://crm-support-system-kjsreilzc-mirza24s-projects.vercel.app/"), 
     allow_credentials=True,
     allow_methods=["*"], 
     allow_headers=["*"] 
