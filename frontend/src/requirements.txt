@@ -1,0 +1,7 @@
+npm create vite@latest crm_frontend 
+cd crm_frontend
+npm install
+npm install axios lucide-react
+npm run dev
+
+
