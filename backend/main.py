@@ -24,7 +24,7 @@ base = declarative_base()
 app.add_middleware(
     
     CORSMiddleware,
-    allow_origins=('http://localhost:3000', "http://localhost:5173","https://crm-support-system-five.vercel.app/"), 
+    allow_origins=('http://localhost:3000', "http://localhost:5173","https://crm-support-system-kjsreilzc-mirza24s-projects.vercel.app/"), 
     allow_credentials=True,
     allow_methods=["*"], 
     allow_headers=["*"] 
